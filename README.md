@@ -1,6 +1,11 @@
-<h3 align="center">A passionate frontend developer/student at ASU!</h3>
+<h1 align="center">Hi 👋, I'm Gabriella</h1>
+<h3 align="center">Currently I am a Junior at ASU learning software engineering and I am an intern with United Health Group/Optum, working as a Frontend Engineer. I am always looking for more ways to be creative with programming!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-gabi&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-gabi" /> </p>
+
+- 🌱 I’m currently learning **Vue.js**
+
+- ⚡ Fun fact **I am an artist!👩🏻‍🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
