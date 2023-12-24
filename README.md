@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriella</h1>
+<h1 align="center">Hello 😊, I'm Gabriella</h1>
 <h3 align="center">Currently I am a Junior at ASU learning software engineering and I am an intern with United Health Group/Optum, working as a Frontend Engineer. I am always looking for more ways to be creative with programming!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmer-gabi&label=Profile%20views&color=0e75b6&style=flat" alt="programmer-gabi" /> </p>
 
